@@ -49,7 +49,7 @@ First you’ll need to setup a Java project for Maven to build. To keep the focu
     package hello;
     public class Greeter {
         public String sayHello() {
-            return "Hello world!";
+            return "Hello my world!";
         }
     }
     ```
